@@ -27,7 +27,7 @@ flutter:
     implements: webreader_flutter
     platforms:
       android:
-        package: mnivore.webreader
+        package: omnivore.webreader
         pluginClass: WebReaderFlutterPlugin
         dartPluginClass: AndroidWebReaderPlatform
 

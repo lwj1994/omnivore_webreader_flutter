@@ -3,7 +3,8 @@ import 'package:flutter/foundation.dart';
 import 'package:flutter/gestures.dart';
 import 'package:flutter/rendering.dart';
 import 'package:flutter/services.dart';
-import 'package:webreader_flutter_platform_interface/platform_interface.dart';
+import 'package:webreader_flutter_platform_interface/webreader_flutter_platform_interface.dart';
+
 import 'instance_manager.dart';
 
 /// @author luwenjie on 2023/12/20 19:27:40
